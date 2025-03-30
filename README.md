@@ -79,4 +79,4 @@ A RESTful API for managing tasks with user authentication, task dependencies, an
 | DELETE | `/api/tasks/{id}/dependencies/{depId}` | Remove dependency from task |
 
 ## Database Schema
-![Database Schema](https://raw.githubusercontent.com/EsraaEissa123/task-management-api-softxpert/main/images/task-management.png)
+![Database Schema](https://raw.githubusercontent.com/EsraaEissa123/task-management-api-softxpert/main/task-management.png)
